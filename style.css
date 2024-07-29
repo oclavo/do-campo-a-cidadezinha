@@ -39,7 +39,7 @@
     width: 35%;
 }
 .escola-titulo{
-    padding: 24px 0; background-color:#00b33076 
+    padding: 24px 0; 
 }
 
 .estudante{
@@ -66,5 +66,5 @@
 .rodape-imagem{
     height: 60px;
     padding: 12px 0;
-   
+    background-color:#00b33076 
 }
