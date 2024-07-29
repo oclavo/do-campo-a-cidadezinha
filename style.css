@@ -39,11 +39,11 @@
     width: 35%;
 }
 .escola-titulo{
-    padding: 24px 0;
+    padding: 24px 0; background-color:#00b33076 
 }
 
 .estudante{
-    padding: 24px 0;
+    padding: 24px 0; 
 }
 .estudante-imagem{
     width: 120px;
